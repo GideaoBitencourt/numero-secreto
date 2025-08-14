@@ -2,7 +2,7 @@
 
 > ONE - Oracle Next Education
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.PNG)
 
 Projeto construído através do curso de lógica de programação com JavaScript da Oracle Next Education.
 
