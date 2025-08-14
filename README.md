@@ -17,8 +17,8 @@ Projeto construído através do curso de lógica de programação com JavaScript
 ## 📚 Como funciona o jogo:
 
 - Ecolha um numero entre 1 e 10 e depois click no botão "Chutar".
-- A medida que você for chutando os numeros, o programa irá dizer se o numero é maior ou menor.
-- O programa também vai contar quantas tentativas você fez até encontrar o numero secreto.
+- A medida que você for chutando os números, o programa irá dizer se o numero é maior ou menor.
+- O programa também vai contar quantas tentativas você fez até encontrar o número secreto.
 - Você pode reiniciar o jogo clicando no botão "Novo jogo".
 
 ## 📞 Contato
